@@ -13,4 +13,5 @@ public class Blogger extends Visitor{
 	public boolean prefers(int loc){
 		return false;
 	}
+	
 }
